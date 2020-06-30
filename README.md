@@ -10,7 +10,8 @@ face liveness detection activate, the script asks the person to generate an acti
 ![alt text](https://github.com/mevo12318/face_liveness_detection-Anti-spoofing/blob/master/results/lifeness_fail.gif)
 
 # References
-Emotion	detection https://github.com/mevo12318/emotion_detection
-Profile detection https://github.com/mevo12318/profile_detection
-Blink detection https://github.com/mevo12318/eye_blink_detection
+
+- Emotion detection https://github.com/mevo12318/emotion_detection
+- Profile detection https://github.com/mevo12318/profile_detection
+- Blink detection https://github.com/mevo12318/eye_blink_detection
 
