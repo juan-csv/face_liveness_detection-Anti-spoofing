@@ -15,7 +15,6 @@ face liveness detection activate, the script asks the person to generate an acti
 
 # References
 
-- **Emotion detection:** https://github.com/mevo12318/emotion_detection
-- **Profile detection:** https://github.com/mevo12318/profile_detection
-- **Blink detection:** https://github.com/mevo12318/eye_blink_detection
-
+- **Emotion detection:** https://github.com/juan-csv/emotion_detection
+- **Profile detection:** https://github.com/juan-csv/profile_detection
+- **Blink detection:** https://github.com/juan-csv/eye_blink_detection
