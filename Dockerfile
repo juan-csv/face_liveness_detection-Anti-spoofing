@@ -11,5 +11,5 @@ RUN apt-get update && apt-get install -y libglib2.0-0 \
 	libsm6 \
 	libxext6 \ 
 	libxrender-dev
-RUN pip install -r req.txt
+RUN pip install -r requeriments.txt
 CMD python face_anti_spoofing.py
