@@ -11,7 +11,7 @@ Keras==2.3.1
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
 Markdown==3.2.2
-numpy==1.19.0
+numpy==1.22.0
 opencv-python==4.3.0.36
 opt-einsum==3.2.1
 protobuf==3.12.2
